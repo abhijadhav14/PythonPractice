@@ -1,0 +1,27 @@
+[
+    {
+        "column1": 1,
+        "column2": "a",
+        "numerical_column": 0.2
+    },
+    {
+        "column1": 2,
+        "column2": "b",
+        "numerical_column": 0.4
+    },
+    {
+        "column1": 3,
+        "column2": 0,
+        "numerical_column": 0.6
+    },
+    {
+        "column1": 4,
+        "column2": "d",
+        "numerical_column": 0.0
+    },
+    {
+        "column1": 5,
+        "column2": "e",
+        "numerical_column": 1.0
+    }
+]
